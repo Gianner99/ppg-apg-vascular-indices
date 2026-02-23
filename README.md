@@ -4,7 +4,6 @@ MATLAB code for: "Photoplethysmography Acceleration Indices as Digital Biomarker
 Automated pipeline for PPG signal processing and acceleration plethysmogram (APG) fiducial point extraction.
 Computes APG-derived vascular indices (b/a, c/a, d/a, e/a, AGI) and analyses their correlation with chronological age across clinical groups (Healthy, Hypertensive, Diabetic).
 
-This is a preliminary version of the code.
 For questions or suggestions, please contact: gianluca.diana@unipa.it
 
 Dataset
